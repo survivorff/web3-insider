@@ -2,9 +2,9 @@
 
 **On-chain tech explained by an exchange engineer.**
 
-I'm a backend engineer with 11 years of experience (4 years in Web3), currently building meme coin trading infrastructure at a crypto exchange. I work with EVM and Solana transaction systems daily.
+Backend engineer at a crypto exchange, working on trading systems and on-chain infrastructure across EVM and Solana.
 
-This repo is where I share deep technical breakdowns — the stuff I learn, build, and observe from the inside.
+This repo is where I share technical breakdowns — the stuff I learn, build, and observe from the inside.
 
 ## 📂 Articles
 
