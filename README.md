@@ -36,7 +36,9 @@ If you find this useful, give it a ⭐ — it helps more people discover it.
 
 ## Find Me
 
+- 📝 [**blog.frankfu.cloud**](https://blog.frankfu.cloud) — daily writing
 - 𝕏 [@FrankFu2262](https://x.com/FrankFu2262)
+- 🐙 [@survivorff](https://github.com/survivorff)
 
 ## License
 
