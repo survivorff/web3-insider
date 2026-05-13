@@ -56,6 +56,7 @@ Each article here has a **"Go Deeper"** section at the bottom pointing to exactl
 | # | Title | Date |
 |---|-------|------|
 | 02 | [Why Hyperliquid Won Perps: A CEX Engineer's Architectural Breakdown](./articles/02-hyperliquid-architecture-breakdown.md) | _In progress_ |
+| 03 | [Prediction Markets in 2026: From "Gambling Site" to $127B Global Probability Infrastructure](./articles/03-prediction-markets-dissected.md) | May 2026 |
 
 ### What's coming
 
